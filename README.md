@@ -16,4 +16,3 @@ The code include:
   - GPS.log
   - Output-xxxroll
   - Track-man.log
-  - 
