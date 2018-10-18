@@ -10,7 +10,6 @@ The code include:
   - CaptureImages.sh
   - CaptureGPS.sh
   - Data-offload-manager.sh
-  - 
   
  The generated output files include:
   - GPS.log
